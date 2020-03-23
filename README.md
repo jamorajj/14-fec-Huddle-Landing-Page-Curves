@@ -2,7 +2,7 @@
 
 Frontend Challenge - Huddle Landing Page with Curves
 
-Solution for Huddle Landing Page with Curves challenge
+Solution for Huddle Landing Page with Curves challenge.
 
 # Frontend Mentor - Huddle Landing Page with Curves
 
